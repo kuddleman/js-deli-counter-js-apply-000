@@ -3,9 +3,9 @@ let counter = 0;
 
 function takeANumber2(){
           //keep track of a number
-         
-          
-           
+
+
+
           //increase the number by one each time the number is called:
         counter ++;
 

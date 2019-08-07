@@ -1,3 +1,26 @@
+let counter = 0;
+
+
+function takeANumber2(){
+          //keep track of a number
+         
+          
+           
+          //increase the number by one each time the number is called:
+        counter ++;
+
+  // give the customer's number as an output:
+console.log ( `Welcome, your ticket number is: ${counter}`);
+}
+
+takeAnumber2();
+takeAnumber2();
+takeAnumber2();
+
+
+
+
+
 function takeANumber(currentLine, newName) {
 
 

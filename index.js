@@ -13,9 +13,9 @@ function takeANumber2(){
 console.log ( `Welcome, your ticket number is: ${counter}`);
 }
 
-takeAnumber2();
-takeAnumber2();
-takeAnumber2();
+takeANumber2();
+takeANumber2();
+takeANumber2();
 
 
 
